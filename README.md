@@ -17,4 +17,4 @@ This website is created with Reactjs,Bootstrap.
 - Clear Text
 
 
-## The Website is Live at "https://textsmith.netlify.app/"
+## The Website is Live at "https://textsmith.netlify.app/"  alternate link "https://text-smith.vercel.app/"
